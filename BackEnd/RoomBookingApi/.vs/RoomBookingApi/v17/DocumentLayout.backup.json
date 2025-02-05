@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Demo_project\\RoomBooking\\BackEnd\\RoomBookingApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F07317D4-F402-4939-82DD-668B828B4925}|RoomBookingApi\\RoomBookingApi.csproj|d:\\demo_project\\roombooking\\backend\\roombookingapi\\roombookingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07317D4-F402-4939-82DD-668B828B4925}|RoomBookingApi\\RoomBookingApi.csproj|solutionrelative:roombookingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07317D4-F402-4939-82DD-668B828B4925}|RoomBookingApi\\RoomBookingApi.csproj|d:\\demo_project\\roombooking\\backend\\roombookingapi\\roombookingapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F07317D4-F402-4939-82DD-668B828B4925}|RoomBookingApi\\RoomBookingApi.csproj|solutionrelative:roombookingapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07317D4-F402-4939-82DD-668B828B4925}|RoomBookingApi\\RoomBookingApi.csproj|d:\\demo_project\\roombooking\\backend\\roombookingapi\\roombookingapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F07317D4-F402-4939-82DD-668B828B4925}|RoomBookingApi\\RoomBookingApi.csproj|solutionrelative:roombookingapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07317D4-F402-4939-82DD-668B828B4925}|RoomBookingApi\\RoomBookingApi.csproj|d:\\demo_project\\roombooking\\backend\\roombookingapi\\roombookingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F07317D4-F402-4939-82DD-668B828B4925}|RoomBookingApi\\RoomBookingApi.csproj|solutionrelative:roombookingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07317D4-F402-4939-82DD-668B828B4925}|RoomBookingApi\\RoomBookingApi.csproj|d:\\demo_project\\roombooking\\backend\\roombookingapi\\roombookingapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F07317D4-F402-4939-82DD-668B828B4925}|RoomBookingApi\\RoomBookingApi.csproj|solutionrelative:roombookingapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07317D4-F402-4939-82DD-668B828B4925}|RoomBookingApi\\RoomBookingApi.csproj|d:\\demo_project\\roombooking\\backend\\roombookingapi\\roombookingapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07317D4-F402-4939-82DD-668B828B4925}|RoomBookingApi\\RoomBookingApi.csproj|solutionrelative:roombookingapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07317D4-F402-4939-82DD-668B828B4925}|RoomBookingApi\\RoomBookingApi.csproj|d:\\demo_project\\roombooking\\backend\\roombookingapi\\roombookingapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07317D4-F402-4939-82DD-668B828B4925}|RoomBookingApi\\RoomBookingApi.csproj|solutionrelative:roombookingapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 309,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Demo_project\\RoomBooking\\BackEnd\\RoomBookingApi\\RoomBookingApi\\Dockerfile",
+              "RelativeDocumentMoniker": "RoomBookingApi\\Dockerfile",
+              "ToolTip": "D:\\Demo_project\\RoomBooking\\BackEnd\\RoomBookingApi\\RoomBookingApi\\Dockerfile",
+              "RelativeToolTip": "RoomBookingApi\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-05T04:03:42.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Demo_project\\RoomBooking\\BackEnd\\RoomBookingApi\\RoomBookingApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RoomBookingApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Demo_project\\RoomBooking\\BackEnd\\RoomBookingApi\\RoomBookingApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RoomBookingApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T04:00:38.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Demo_project\\RoomBooking\\BackEnd\\RoomBookingApi\\RoomBookingApi\\appsettings.json",
+              "RelativeDocumentMoniker": "RoomBookingApi\\appsettings.json",
+              "ToolTip": "D:\\Demo_project\\RoomBooking\\BackEnd\\RoomBookingApi\\RoomBookingApi\\appsettings.json",
+              "RelativeToolTip": "RoomBookingApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T04:00:35.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Demo_project\\RoomBooking\\BackEnd\\RoomBookingApi\\RoomBookingApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RoomBookingApi\\appsettings.Development.json",
+              "ToolTip": "D:\\Demo_project\\RoomBooking\\BackEnd\\RoomBookingApi\\RoomBookingApi\\appsettings.Development.json",
+              "RelativeToolTip": "RoomBookingApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T04:00:27.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "D:\\Demo_project\\RoomBooking\\BackEnd\\RoomBookingApi\\RoomBookingApi\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "RoomBookingApi\\Controllers\\TestController.cs",
+              "ToolTip": "D:\\Demo_project\\RoomBooking\\BackEnd\\RoomBookingApi\\RoomBookingApi\\Controllers\\TestController.cs",
+              "RelativeToolTip": "RoomBookingApi\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T03:42:23.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Demo_project\\RoomBooking\\BackEnd\\RoomBookingApi\\RoomBookingApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "RoomBookingApi\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Demo_project\\RoomBooking\\BackEnd\\RoomBookingApi\\RoomBookingApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "RoomBookingApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T03:37:13.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Demo_project\\RoomBooking\\BackEnd\\RoomBookingApi\\RoomBookingApi\\Program.cs",
+              "RelativeDocumentMoniker": "RoomBookingApi\\Program.cs",
+              "ToolTip": "D:\\Demo_project\\RoomBooking\\BackEnd\\RoomBookingApi\\RoomBookingApi\\Program.cs",
+              "RelativeToolTip": "RoomBookingApi\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T03:33:13.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
