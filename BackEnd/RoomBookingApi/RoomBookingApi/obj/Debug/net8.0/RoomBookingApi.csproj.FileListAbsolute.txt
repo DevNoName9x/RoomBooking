@@ -43,3 +43,4 @@ D:\Demo_project\RoomBooking\BackEnd\RoomBookingApi\RoomBookingApi\obj\Debug\net8
 D:\Demo_project\RoomBooking\BackEnd\RoomBookingApi\RoomBookingApi\obj\Debug\net8.0\RoomBookingApi.pdb
 D:\Demo_project\RoomBooking\BackEnd\RoomBookingApi\RoomBookingApi\obj\Debug\net8.0\RoomBookingApi.genruntimeconfig.cache
 D:\Demo_project\RoomBooking\BackEnd\RoomBookingApi\RoomBookingApi\obj\Debug\net8.0\ref\RoomBookingApi.dll
+D:\Demo_project\RoomBooking\BackEnd\RoomBookingApi\RoomBookingApi\obj\Debug\net8.0\RoomBookingApi.sourcelink.json
